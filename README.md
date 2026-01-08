@@ -16,4 +16,4 @@ Bug fixes;
  - Car is now closed.
  - Fuel can now be picked up.
 
- Owned by (https://github.com/smailme99907-max)[https://github.com/smailme99907-max]
+ Owned by https://github.com/smailme99907-max
