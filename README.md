@@ -16,5 +16,4 @@ Bug fixes;
  - Car is now closed.
  - Fuel can now be picked up.
 
-# Gamejolt
-Download: https://gamejolt.com/games/granny-psv/654317
+ Owned by (https://github.com/smailme99907-max)[https://github.com/smailme99907-max]
